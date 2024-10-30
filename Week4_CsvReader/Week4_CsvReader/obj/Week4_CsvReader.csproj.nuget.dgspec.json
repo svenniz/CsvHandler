@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj": {}
+    "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj": {
+    "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
+        "projectUniqueName": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
         "projectName": "Week4_CsvReader",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\obj\\",
+        "projectPath": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
+        "packagesPath": "C:\\Users\\AndreasVentzel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AndreasVentzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
