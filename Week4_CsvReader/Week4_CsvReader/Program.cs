@@ -3,7 +3,7 @@ using Week4_CsvReader.Services;
 using Week4_CsvReader.Services.Interfaces;
 Console.WriteLine("Hello, World!");
 var filepath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SampleData\\country_full.csv");
-var fileOut = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SampleData\\country_out.csv");
+var fileEurope = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SampleData\\country_europe.csv");
 var fileAfrica = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SampleData\\country_africa.csv");
 
 ICsvFileReader fileReader = new CsvFileReader();
@@ -13,6 +13,8 @@ ICsvExporter exporter = new CsvExporter();
 
 //4 
 var records = fileReader.ReadCsv(filepath);
-var filteredRecords = fileReader.ReadFilteredCsv(filepath, "region", "Africa");
-printer.PrintCsv(filteredRecords);
-exporter.ExportToCsv(filteredRecords, fileAfrica);
+var filteredRegionAfricaRecords = fileReader.ReadFilteredCsv(filepath, "region", "Africa");
+var filteredRegionEuropeRecords = fileReader.ReadFilteredCsv(filepath, "region", "Europe");
+printer.PrintCsv(records);
+exporter.ExportToCsv(filteredRegionAfricaRecords, fileAfrica);
+exporter.ExportToCsv(filteredRegionEuropeRecords, fileEurope);
