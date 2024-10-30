@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\",
+  "WorkspaceRootPath": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\csvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\csvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\csvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\interfaces\\icsvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\interfaces\\icsvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\interfaces\\icsvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\interfaces\\icsvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\interfaces\\icsvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\interfaces\\icsvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\csvsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\csvsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\csvsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\interfaces\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\interfaces\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\interfaces\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andre\\source\\repos\\week4_csvreader\\week4_csvreader\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\repos\\csvhelper\\csvhandler\\week4_csvreader\\week4_csvreader\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,95 +42,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ICsvExporter.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvExporter.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\Interfaces\\ICsvExporter.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvExporter.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvExporter.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\Interfaces\\ICsvExporter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:10:07.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T17:10:07.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CsvSorter.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvSorter.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvSorter.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\CsvSorter.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvSorter.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvSorter.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\CsvSorter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:05:51.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T17:05:51.225Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CsvExporter.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvExporter.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\CsvExporter.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvExporter.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvExporter.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\CsvExporter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:05:08.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T17:05:08.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ICsvPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvPrinter.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\Interfaces\\ICsvPrinter.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvPrinter.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvPrinter.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\Interfaces\\ICsvPrinter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:53:21.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T16:53:21.665Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ICsvFileReader.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvFileReader.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\Interfaces\\ICsvFileReader.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvFileReader.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\Interfaces\\ICsvFileReader.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\Interfaces\\ICsvFileReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:46:00.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T16:46:00.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CsvFileReader.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvFileReader.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\CsvFileReader.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvFileReader.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvFileReader.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\CsvFileReader.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:19:31.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T15:19:31.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Program.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Program.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Program.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Program.cs",
               "RelativeToolTip": "Week4_CsvReader\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:19:00.483Z",
               "EditorCaption": ""
@@ -139,18 +137,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CsvPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvPrinter.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Services\\CsvPrinter.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvPrinter.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Services\\CsvPrinter.cs",
               "RelativeToolTip": "Week4_CsvReader\\Services\\CsvPrinter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:46:31.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-29T16:46:31.792Z"
             }
           ]
         }
