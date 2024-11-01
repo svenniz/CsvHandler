@@ -24,12 +24,10 @@ namespace Week4_CsvReader.Services
                 PrintRecord(record, headers); // Print record values
             }
         }
-
         private IEnumerable<string> GetHeaders(dynamic record)
         {
             return ((IDictionary<string, object>)record).Keys;
         }
-
         private void PrintRecord(dynamic record, IEnumerable<string> headers)
         {
             var values = headers.Select(header => ((IDictionary<string, object>)record)[header]);

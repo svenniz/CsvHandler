@@ -20,6 +20,5 @@ namespace Week4_CsvReader.Services
                 csv.WriteRecords(records);
             }
         }
-
     }
 }

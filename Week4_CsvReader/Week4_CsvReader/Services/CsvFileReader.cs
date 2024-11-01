@@ -36,7 +36,6 @@ namespace Week4_CsvReader.Services
                 }
             }
         }
-
         public IEnumerable<dynamic> ReadFilteredCsv(string filePath, string columnName, string value)
         {
             return ReadCsv(filePath).Where(record =>
