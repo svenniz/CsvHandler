@@ -11,7 +11,6 @@ ICsvPrinter printer = new CsvPrinter();
 ICsvSorter sorter = new CsvSorter();
 ICsvExporter exporter = new CsvExporter();
 
-//4 
 var records = fileReader.ReadCsv(filepath);
 var filteredRegionAfricaRecords = fileReader.ReadFilteredCsv(filepath, "region", "Africa");
 var filteredRegionEuropeRecords = fileReader.ReadFilteredCsv(filepath, "region", "Europe");
