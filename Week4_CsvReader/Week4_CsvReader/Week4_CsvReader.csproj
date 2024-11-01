@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CsvLibrary\CsvLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="SampleData\country_full.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
