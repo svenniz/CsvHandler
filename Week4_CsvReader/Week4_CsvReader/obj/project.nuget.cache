@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTXnL7gIENc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AndreasVentzel\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
