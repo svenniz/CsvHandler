@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A98715C-BD25-4303-8B85-FED4BA72F45A}|CsvLibrary\\CsvLibrary.csproj|c:\\users\\andreasventzel\\source\\git\\csvhandler\\week4_csvreader\\csvlibrary\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98715C-BD25-4303-8B85-FED4BA72F45A}|CsvLibrary\\CsvLibrary.csproj|solutionrelative:csvlibrary\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|c:\\users\\andreasventzel\\source\\git\\csvhandler\\week4_csvreader\\week4_csvreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8E0123-2465-4A36-90DD-E664D3C3B07B}|Week4_CsvReader\\Week4_CsvReader.csproj|solutionrelative:week4_csvreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\CsvLibrary\\Services\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "CsvLibrary\\Services\\CsvExporter.cs",
+              "ToolTip": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\CsvLibrary\\Services\\CsvExporter.cs",
+              "RelativeToolTip": "CsvLibrary\\Services\\CsvExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:30:14.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Program.cs",
               "RelativeDocumentMoniker": "Week4_CsvReader\\Program.cs",
               "ToolTip": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Program.cs",
               "RelativeToolTip": "Week4_CsvReader\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:19:00.483Z",
               "EditorCaption": ""
