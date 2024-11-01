@@ -14,6 +14,16 @@
             "related": ".xml"
           }
         }
+      },
+      "CsvLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CsvLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CsvLibrary.dll": {}
+        }
       }
     }
   },
@@ -45,11 +55,17 @@
         "lib/netstandard2.1/CsvHelper.dll",
         "lib/netstandard2.1/CsvHelper.xml"
       ]
+    },
+    "CsvLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CsvLibrary/CsvLibrary.csproj",
+      "msbuildProject": "../CsvLibrary/CsvLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CsvHelper >= 33.0.1"
+      "CsvHelper >= 33.0.1",
+      "CsvLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,11 +74,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
+      "projectUniqueName": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
       "projectName": "Week4_CsvReader",
-      "projectPath": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
+      "projectPath": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\Week4_CsvReader.csproj",
       "packagesPath": "C:\\Users\\AndreasVentzel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndreasVentzel\\source\\repos\\csvhelper\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\obj\\",
+      "outputPath": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\Week4_CsvReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AndreasVentzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +95,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\CsvLibrary\\CsvLibrary.csproj": {
+              "projectPath": "C:\\Users\\AndreasVentzel\\source\\Git\\CsvHandler\\Week4_CsvReader\\CsvLibrary\\CsvLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
